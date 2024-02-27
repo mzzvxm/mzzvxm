@@ -15,7 +15,7 @@ Sou um entusiasta da tecnologia, apaixonado por criar soluções inovadoras e im
 ![mzzvxm's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzzvxm&show_icons=true&theme=radical)
 
 ## Projeto em construção 🏗️
-- Black Path: [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.BlackPath.com.br)
+- Black Path: [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.blackpath.store)
 
 ## Contato 📞
 - LinkedIn: [Vinicius Bonifácio](www.linkedin.com/in/mzzvxm)
