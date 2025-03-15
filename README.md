@@ -16,10 +16,6 @@ Utilizo as seguintes tecnologias no meu dia a dia:
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
-## Projetos
-- **Black Path**: Uma marca de roupas streetwear com foco em autenticidade e estilo.
-  - Em construção.
-
 ## Contato
 - **LinkedIn**: [Vinicius Bonifácio](https://www.linkedin.com/in/mzzvxm)
 - **Email**: vibonifaciomz@gmail.com
