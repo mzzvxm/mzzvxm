@@ -17,7 +17,6 @@ Olá! Sou MZ, um desenvolvedor apaixonado por tecnologia e inovação. Com exper
 [![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Pascal](https://img.shields.io/badge/-Pascal-FF0000?style=flat&logo=pascal&logoColor=white)](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 [![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 
 </div>
@@ -25,13 +24,6 @@ Olá! Sou MZ, um desenvolvedor apaixonado por tecnologia e inovação. Com exper
 ## Projetos Recentes
 
 - **Site Concurso Agrinho 2025** – HTML & CSS, tema "Festejando a conexão campo cidade".
-- **Port MCLA4** – Engenharia reversa de executável XEX para PC.
-- **Bot Nuvemshop** – Python, API Nuvemshop, automação de cadastro e download de imagens.
-- **IPTV Player** – Python, Tkinter, VLC, M3U.
-- **Trabalho Acadêmico** – ABNT, perícia balística forense.
-- **MQL Fila sem Descritor** – Implementação em Pascal.
-- **Black Path** – Marketing de streetwear com memes e efeitos sonoros.
-- **Upscaling de Imagem com IA** – Testes com GPUs e GUIs para aprimorar fotos.
 
 ## Contato
 
