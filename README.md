@@ -17,13 +17,13 @@ Olá! Sou MZ, um desenvolvedor apaixonado por tecnologia e inovação. Com exper
 [![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 
 </div>
 
 ## Projetos Recentes
 
 - **Site Concurso Agrinho 2025** – HTML & CSS, tema "Festejando a conexão campo cidade".
+- **Site Correio Elegante** – Tailwind, React & TypeScript.
 
 ## Contato
 
