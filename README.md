@@ -22,8 +22,8 @@ Olá! Sou MZ, um desenvolvedor apaixonado por tecnologia e inovação. Com exper
 
 ## Projetos Recentes
 
-- **Site Concurso Agrinho 2025** – HTML & CSS, tema "Festejando a conexão campo cidade".
-- **Site Correio Elegante** – Tailwind, React & TypeScript.
+- **Site [Concurso Agrinho 2025](https://mzzvxm.github.io/FCC-Agrinho25/)** – HTML & CSS, tema "Festejando a conexão campo cidade".
+- **Site [Correio Elegante](https://correioelegante-ten.vercel.app/)** – Tailwind, React & TypeScript.
 
 ## Contato
 
