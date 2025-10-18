@@ -1,15 +1,15 @@
-# MZ – Desenvolvedor de Software
+# MZ – Software Developer
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Olá! Sou **MZ**, desenvolvedor apaixonado por tecnologia, retro-gaming e automação. Gosto de transformar ideias em projetos funcionais, explorando desde **web apps modernos** até **homebrews para PS Vita**.
-Atualmente, tenho trabalhado em integrações com **APIs (Real-Debrid, Gemini e OpenRouter)**, **bots para Discord** e projetos experimentais no **VitaSDK**.
+Hello! I'm **MZ**, a developer passionate about technology, retro-gaming, and automation. I enjoy turning ideas into functional projects, exploring everything from **modern web apps** to **PS Vita homebrews**.
+Currently, I've been working on integrations with **APIs (Real-Debrid, Gemini, and OpenRouter)**, **Discord bots**, and experimental projects with **VitaSDK**.
 
-Meu foco é criar soluções simples, objetivas e que realmente funcionem no dia a dia. 🚀
+My focus is to create simple, objective solutions that really work in day-to-day life. 🚀
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 
@@ -23,27 +23,27 @@ Meu foco é criar soluções simples, objetivas e que realmente funcionem no dia
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat\&logo=c\&logoColor=white)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
-</div>  
+</div>  
 
 ---
 
-## 🚧 Projetos em Destaque
+## 🚧 Featured Projects
 
-* 🎮 **[VitaTPBPlayer](https://github.com/mzzvxm/VitaTPBPlayer)** – App homebrew para **PS Vita** que busca torrents no ThePirateBay, integra com **Real-Debrid** e reproduz via player nativo.
-* 🤖 **Bot Discord + Real-Debrid** – Automatiza desbloqueio de links, torrents e organização em canais fixos.
-* 🌐 **[Concurso Agrinho 2025](https://fccagrinho25.vercel.app/)** – Site em HTML & CSS com o tema *“Festejando a conexão campo-cidade”*.
-* 💌 **[Correio Elegante](https://correiooelegante.vercel.app/)** – Aplicação em React + Tailwind para envio de mensagens divertidas.
+* 🎮 **[VitaTPBPlayer](https://github.com/mzzvxm/VitaTPBPlayer)** – A **PS Vita** homebrew app that searches for torrents on ThePirateBay, integrates with **Real-Debrid**, and plays them via the native player.
+* 🤖 **Discord Bot + Real-Debrid** – Automates unblocking links, torrents, and organizing them in dedicated channels.
+* 🌐 **[Concurso Agrinho 2025](https://fccagrinho25.vercel.app/)** – An HTML & CSS website with the theme *“Celebrating the country-city connection”*.
+* 💌 **[Correio Elegante](https://correiooelegante.vercel.app/)** – A React + Tailwind application for sending fun messages.
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 * **LinkedIn**: [Vinicius Bonifácio](https://www.linkedin.com/in/mzzvxm)
 * **Email**: [vibonifaciomz@gmail.com](mailto:vibonifaciomz@gmail.com)
 
 ---
 
-## 🤝 Contribuições
+## 🤝 Contributions
 
-Contribuições, feedbacks e ideias são sempre bem-vindos!
-Sinta-se à vontade para abrir issues ou enviar PRs nos repositórios.
+Contributions, feedback, and ideas are always welcome!
+Feel free to open issues or send PRs in the repositories.
